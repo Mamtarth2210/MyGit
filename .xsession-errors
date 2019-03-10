@@ -1,0 +1,20 @@
+Xsession: X session started for ubuntu at Sun Mar 10 14:58:58 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[30921]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[30922]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:30914): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:30914): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-10-35:10, Does it exist? Permissions issue?
+
+(xfsettingsd:30943): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:30924): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 30934: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:30933): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
